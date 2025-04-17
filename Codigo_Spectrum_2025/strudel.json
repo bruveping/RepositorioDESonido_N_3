@@ -1,5 +1,5 @@
 {
-    "_base": "https://raw.githubusercontent.com/bruveping/RepositorioDESonido_N_3/tree/main/Codigo_Spectrum_2025/",
+    "_base": "https://raw.githubusercontent.com/bruveping/RepositorioDESonido_N_3/main/Codigo_Spectrum_2025/",
     "todo": ["Audios/Acordes.wav", "Audios/Acordes_2.wav", "Audios/Bajo 2.wav", "Audios/Batería.wav", "Audios/Melodía.wav"],
     "bateria": "Audios/Batería.wav",
     "bajo2": "Audios/Bajo 2.wav",
