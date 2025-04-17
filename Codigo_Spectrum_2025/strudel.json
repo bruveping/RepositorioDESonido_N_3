@@ -1,0 +1,9 @@
+{
+    "_base": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/master/",
+    "todo": ["Audios/Acordes.wav", "Audios/Acordes_2.wav", "Audios/Bajo 2.wav", "Audios/Batería.wav", "Audios/Melodía.wav"],
+    "bateria": "Audios/Batería.wav",
+    "bajo2": "Audios/Bajo 2.wav",
+    "arpegio": "Audios/Acordes_2.wav",
+    "acordes": "Audios/Acordes.wav",
+    "melodia": "Audios/Melodía.wav"
+  }
