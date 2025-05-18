@@ -1,0 +1,5 @@
+{
+    "_base": "https://raw.githubusercontent.com/bruveping/RepositorioDESonido_N_3/main/guitarra_experimental0001/",
+    "guitarra": ["Audios/toma0001.wav"],
+    "toma0001": "Audios/toma0001.wav"
+  }
